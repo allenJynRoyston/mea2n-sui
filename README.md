@@ -7,8 +7,8 @@ Looking for an Express/Angular2 build without SemanticUI?  [Get this repo instea
 
 Routing included by default.
 
-### Barebones Preview
-[Click here](https://express-angular2-seed.herokuapp.com/)
+### Preview
+[Click here](https://mea2n-sui.herokuapp.com/)
 
 ### Why?
 
