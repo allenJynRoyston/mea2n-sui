@@ -1,8 +1,11 @@
 # Express / Angular 2 + SemanticUI Easy setup
 
+### DUDE
+Looking for An Express/Angular2 build without SemanticUI?  [Get this repo instead](https://github.com/allenRoyston/Express-Angular2-Seed "Angular 2/Express")
+
 ### NEW FEATURES!
 
-July 25 2016:  Routing included by default.
+Routing included by default.
 
 ### Barebones Preview
 [Click here](https://express-angular2-seed.herokuapp.com/)
