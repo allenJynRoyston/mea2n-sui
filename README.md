@@ -1,4 +1,4 @@
-# Express / Angular 2 Easy setup
+# Express / Angular 2 + SemanticUI Easy setup
 
 ### NEW FEATURES!
 
