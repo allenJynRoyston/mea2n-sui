@@ -1,7 +1,7 @@
 # Express / Angular 2 + SemanticUI Easy setup
 
 ### DUDE
-Looking for An Express/Angular2 build without SemanticUI?  [Get this repo instead.](https://github.com/allenRoyston/Express-Angular2-Seed "Angular 2/Express")
+Looking for an Express/Angular2 build without SemanticUI?  [Get this repo instead.](https://github.com/allenRoyston/Express-Angular2-Seed "Angular 2/Express")
 
 ### NEW FEATURES!
 
