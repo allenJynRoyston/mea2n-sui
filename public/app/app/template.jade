@@ -1,11 +1,11 @@
-//output:template.html
+//output: template.html
 .ui.fixed.inverted.menu
   .ui.container
-    a.header.item( [routerLink]="['/']" )
+    a.header.item( routerLink="/home" )
       img.logo(src='assets/images/logo.png') 
       | &nbsp;&nbsp;Project Name 
-    a.item( [routerLink]="['/']" ) Home 
-    a.item( [routerLink]="['/about']" ) About 
+    a.item( routerLink="/home" ) Home 
+    a.item( routerLink="/about" ) About 
 
 
 .space-block-100

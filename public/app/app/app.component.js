@@ -9,20 +9,19 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-// all
-var ng2_sui_1 = require('../../../node_modules/ng2-semantic-ui-directives/ng2-sui');
-var HomeComponent = (function () {
-    function HomeComponent() {
+var ng2_sui_1 = require('../../node_modules/ng2-semantic-ui-directives/ng2-sui');
+var AppComponent = (function () {
+    function AppComponent() {
     }
-    HomeComponent = __decorate([
+    AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            templateUrl: './app/components/home/template.html',
-            directives: [ng2_sui_1.UISEMANTIC_ALL]
+            directives: [ng2_sui_1.UISEMANTIC_ALL],
+            templateUrl: '../app/app/template.html'
         }), 
         __metadata('design:paramtypes', [])
-    ], HomeComponent);
-    return HomeComponent;
+    ], AppComponent);
+    return AppComponent;
 }());
-exports.HomeComponent = HomeComponent;
-//# sourceMappingURL=home.components.js.map
+exports.AppComponent = AppComponent;
+//# sourceMappingURL=app.component.js.map
