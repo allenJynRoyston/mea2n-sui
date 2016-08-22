@@ -5,6 +5,7 @@ Looking for an Express/Angular2 build without SemanticUI?  [Get this repo instea
 
 ### NEW FEATURES!
 Updated to rc.5.
+<br>
 Routing included by default.
 
 ### Preview
