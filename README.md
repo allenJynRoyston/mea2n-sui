@@ -6,6 +6,7 @@ Looking for an Express/Angular2 build without SemanticUI?  [Get this repo instea
 ### NEW FEATURES!
 Updated to latest Angular 2 version (rc.5).
 <br>
+Jade has been superceded by Pug.
 Routing included by default.
 
 ### Preview
@@ -24,7 +25,7 @@ Install includes:
 Express side:
   - Built in mobile/iPad/OS user detection (accessible throughtout the entire site)
   - Quick API and routing setup
-  - Jade templating
+  - Pug (formerly Jade) templating
   
 Angular 2 side:
   - Built in mobile/iPad/OS user detection (accessible globally)
@@ -32,7 +33,7 @@ Angular 2 side:
    
 Required:
   - NPM (Node Package Manager)
-  - Atom editor *recommended, but not required (for easy Jade -> HTML auto compiling)
+  - Atom editor *recommended, but not required (for easy Pug -> HTML auto compiling)
   - Typescript *recommended, but again not required.
 
 Install instructions:
