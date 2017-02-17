@@ -1,5 +1,8 @@
 # Express / Angular 2 + SemanticUI Easy setup
 
+### Update History
+- 2/17/2017: Now includes Pug (instead of Jade), NPM packages updated.  
+
 ### DUDE
 Looking for an Express/Angular2 build without SemanticUI?  [Get this repo instead.](https://github.com/allenRoyston/Express-Angular2-Seed "Angular 2/Express")
 
